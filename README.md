@@ -14,3 +14,5 @@ _Italicized text_
 ---
 [title](https://www.example.com)
 ![alt text](image.jpg)
+
+``here you go - ` this was a backtick``
