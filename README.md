@@ -10,8 +10,7 @@
 ### lab 08
 ### lab 09
 ### lab 10
-****
-__
+
 > **Contents** _This repository contains_
 - Documentation
 - Labs
